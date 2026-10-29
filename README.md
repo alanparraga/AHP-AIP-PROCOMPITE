@@ -118,5 +118,4 @@ Este proyecto se distribuye bajo los términos de la licencia MIT. Consulte el a
 
 ## Contacto
 
-aparraga@aumentiva.com  
 jose.parraga@unmsm.edu.pe
