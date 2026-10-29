@@ -1,0 +1,6 @@
+# Versión recomendada de Python
+# Python >= 3.9
+
+# Librerías para procesamiento de datos y álgebra lineal
+pandas>=2.0.0
+numpy>=1.24.0

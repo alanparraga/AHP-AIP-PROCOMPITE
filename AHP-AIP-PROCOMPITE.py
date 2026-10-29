@@ -177,7 +177,6 @@ def main():
     
     print("\n✅ Ranking exportado a 'ranking_cadenas_productivas.csv'")
     print("\n✅ ORCID: https://orcid.org/0009-0003-2932-6725")
-    print("\n✅ Investigación desarrollada para la revista Industrial Data (UNMSM, 2026)")
     print("\n")
 
 if __name__ == "__main__":
